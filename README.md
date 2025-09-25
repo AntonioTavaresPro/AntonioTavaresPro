@@ -7,7 +7,7 @@ Como aprendiz de Desenvolvimento de Software e Multiplataforma, estou em uma jor
 
 Acredito que o conhecimento se constrói na prática, na colaboração e no desejo genuíno de aprender. Cada linha de código que escrevo carrega um propósito: crescer, inovar e contribuir. Estou aqui para explorar novas linguagens, desenvolver soluções criativas e, principalmente, aprender com cada experiência.
 
-Estou em busca de oportunidades que me permitam mergulhar em projetos reais, aprender com pessoas incríveis e colocar em prática tudo aquilo que venho estudando. Quero fazer parte de equipes que acreditam no poder da tecnologia para transformar realidades e que valorizam o desenvolvimento humano tanto quanto o técnico.
+Estou em busca de oportunidades que me permitam mergulhar em projetos reais, aprender com pessoas bem preparadas para colocar em prática tudo aquilo que venho estudando. Quero fazer parte de equipes que acreditam no poder da tecnologia para transformar realidades e que valorizam o desenvolvimento humano tanto quanto o técnico.
 <p align="left">
     <a href="https://github.com/AntonioTavaresPro?tab=repositories&sort=stargazers">
         <img 
