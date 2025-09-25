@@ -11,18 +11,18 @@ Estou em busca de oportunidades que me permitam mergulhar em projetos reais, apr
 Saiba que estou pronto: para aprender, para melhorar e para fazer acontecer.
 
 <p align="left">
-    <a href="https://github.com/Antoniotavares13?tab=repositories&sort=stargazers">
+    <a href="https://github.com/AntonioTavaresPro?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Antoniotavares13?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/AntonioTavaresPro?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Antoniotavares13?tab=followers">
+    <a href="https://github.com/AntonioTavaresPro?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Antoniotavares13?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/AntonioTavaresPro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -122,7 +122,7 @@ Saiba que estou pronto: para aprender, para melhorar e para fazer acontecer.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Antoniotavares13&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=AntonioTavaresPro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
@@ -130,7 +130,7 @@ Saiba que estou pronto: para aprender, para melhorar e para fazer acontecer.
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniotavares13&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioTavaresPro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
