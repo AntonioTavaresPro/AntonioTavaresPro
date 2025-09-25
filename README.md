@@ -15,7 +15,7 @@ Saiba que estou pronto: para aprender, para errar, para melhorar e para fazer ac
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Antoniotavares13?color=55960c&style=for-the-badge&labelColor=1313&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Antoniotavares13?color=55960c&style=for-the-badge&labelColor=4883&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Antoniotavares13?tab=followers">
