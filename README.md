@@ -1,6 +1,6 @@
 # 👨‍💻Olá bem vindo! 
-# Eu sou o "Antonio Tavares";
-# Aprendiz de Desenvolvimento de Software e Multiplataforma
+# Eu sou o Antonio Tavares.
+# Aprendiz de Desenvolvimento de Software e Multiplataforma!
 
 Sou movido por curiosidade, impulsionado por desafios e guiado pelo desejo constante de evoluir.
 Como aprendiz de Desenvolvimento de Software e Multiplataforma, estou em uma jornada de transformação, não apenas da minha carreira, mas da forma como posso impactar o mundo por meio da tecnologia.
